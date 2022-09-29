@@ -6,7 +6,7 @@ Even it has camera option from which we can capture our image edit it.
 
 
 # Libraries used
-Django 
+Django \n
 Pillow
 Numpy
 pandas
